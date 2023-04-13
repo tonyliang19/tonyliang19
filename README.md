@@ -32,4 +32,5 @@ Here are some ideas to get you started:
 
 Hmmm and this is how often I work on GitHub, it serves a like tracer for me to count how many days non-stop I have worked on some stuffs.  
 
-[![Tony Liang's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonyliang19&count_private=true&show_icons=true&theme=radical)](https://github.com/tonyliang19)
+<!--- &count_private=true this options counts private commits as well --->
+[![Tony Liang's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonyliang19&show_icons=true&theme=radical)](https://github.com/tonyliang19)
