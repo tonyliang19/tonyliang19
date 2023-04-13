@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+This is Tony, I made this crappy :hankey: README, does it help me to describe myself? Nah.
+
+If you really wanna know more about me, you could go to my personal website instead!
+
+:point_down: 
+
+[Website](https://tonyliang19.github.io/)
+
+
 <!--
 **tonyliang19/tonyliang19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +23,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Things I have heard of and not necessarily know
+<!---- &theme=light ---->
+[![My Skills 1](https://skillicons.dev/icons?i=aws,bash,bootstrap,cpp,css,docker,dynamodb,flask,git,github,githubactions,heroku,html,vscode)](https://skillicons.dev)
+
+[![My Skills 2](https://skillicons.dev/icons?i=java,kotlin,latex,linux,matlab,mongodb,md,mysql,postman,py,pytorch,r,react,svg)](https://skillicons.dev)
+
+Hmmm and this is how often I work on GitHub, it serves a like tracer for me to count how many days non-stop I have worked on some stuffs.  
+
+[![Tony Liang's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonyliang19&count_private=true&show_icons=true&theme=radical)](https://github.com/tonyliang19)
