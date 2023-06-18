@@ -9,9 +9,8 @@ If you really wanna know more about me, you could go to my personal website inst
 [Website](https://tonyliang19.github.io/)
 
 <div align="center">
-    <img src="example.svg" width="400" height="400" alt="css-in-readme">
+    <img src="icons.svg" width="500" height="400" alt="Skill Icons">
 </div>
-
 
 <!--
 **tonyliang19/tonyliang19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
